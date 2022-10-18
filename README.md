@@ -1,7 +1,7 @@
 - 👋 Hello everyone, I’m @gulsaherkal
 - 👀 I’m an industrial engineer. 
-- 🌱 I’m currently learning Frontend Web Development and  Java & Backend Web Development in the beginning level.
-- 💞️ After I complate lessons that I want to reach good level of knowledge about it, I’m looking to collaborate on many project something usefull and beneficial as much as possible. ...
+- 🌱 I’m currently learning Frontend Web Development and  Java & Backend Web Development.
+- 💞️ After I complate lessons, I would like to collaborate on many project something usefull and beneficial as much as possible. ...
 - 📫 
 
 <!---
